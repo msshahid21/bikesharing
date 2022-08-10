@@ -7,7 +7,7 @@ The purpose of this project is to determine the viability of a biking service in
 - Gender Breakdown
 - Customers Breakdown
 
-Link to Tableau Story -> https://public.tableau.com/views/NYCCitiBikesFinal/NYCCitiBikes?:language=en-US&:display_count=n&:origin=viz_share_link
+[Link to Dashboard]("https://public.tableau.com/views/NYCCitiBikesFinal/NYCCitiBikes?:language=en-US&:display_count=n&:origin=viz_share_link")
 
 ## Results
 ### Checkout Times
