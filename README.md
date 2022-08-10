@@ -26,21 +26,21 @@ The visualizations below show the peak times on each weekday by the hour, and al
 
 ![Gender Breakdown](https://user-images.githubusercontent.com/67916327/183820111-0a7eed2b-cbfb-4756-be57-debf44077b4c.png)
 
-Furthermore, for both male and female users, the busy periods are still before and after work times on Monday to Friday, while on Saturday and Sunday the busy times are between 9 AM and 6 PM, perhaps due to peoplee exploring the city during those days.
+Furthermore, for both male and female users, the busy periods are still before and after work times on Monday to Friday, while on Saturday and Sunday the busy times are between 9 AM and 6 PM, perhaps due to people exploring the city during those days.
 
 ![Heat Map for Busy Times by Weekday and Hour](https://user-images.githubusercontent.com/67916327/183820428-1913243d-6f8f-4df5-b9ee-783e80c50d88.png)
 
 ![Heat Map for Busy Times by Weekday and Hour (Gender)](https://user-images.githubusercontent.com/67916327/183820434-b44e46c8-0b93-4e5c-a7cb-7b81e2f36d33.png)
 
-Finally, on Thurdays it seems to be the busiest day for the Citi Bike service, as shown in the graph below.
+Finally, on Thursdays it seems to be the busiest day for the Citi Bike service, as shown in the graph below.
 
 ![Heat Map by Customer Type for Peak Weekdays and Hours](https://user-images.githubusercontent.com/67916327/183820265-d95fbd2a-fadf-4a23-9601-3619e2cf7d46.png)
 
 
 ## Summary
-The visualizations above show that the bikes service is mostly used by customers for going to and from work, while on the weekends it is used to explore the city. Additionally, the checkout times show that this is a very short term service for customers with a mode of 6 minutes. Therefore the service implemented in Des Moines should focus on targetting the same audience and set the pricing in a way where there is a higher initial fee with every extra minute being lower. This can encourage customers to use the bike longer but also capture a large enough payment for the smaller trips.
+The visualizations above show that the bikes service is mostly used by customers for going to and from work, while on the weekends it is used to explore the city. Additionally, the checkout times show that this is a very short term service for customers with a mode of 6 minutes. Therefore the service implemented in Des Moines should focus on targeting the same audience and set the pricing in a way where there is a higher initial fee with every extra minute being lower. This can encourage customers to use the bike longer but also capture a large enough payment for the smaller trips.
 
-However, a key thing to note is the geographical differences between these two cities, NYC is a much larger and busier city, while Des Moines is much smaller in population. Furthermore, due to cars not being as accessible in NYC due to accomodating for pedestrians, cycling is a much better alternative than driving to work. These considerations will be important before taking all the above data at face value.
+However, a key thing to note is the geographical differences between these two cities, NYC is a much larger and busier city, while Des Moines is much smaller in population. Furthermore, due to cars not being as accessible in NYC due to accommodating for pedestrians, cycling is a much better alternative than driving to work. These considerations will be important before taking all the above data at face value.
 
 ### Additional Charts
 - **Checkout Times by day**: In order to see how much users of the service use the bike on weekends for touring the city this could be a useful visualization to determine if it is a good idea to have a different pricing system on weekends to encourage customers to explore the city.
