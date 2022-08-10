@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .csv to not upload
+201908-citibike-tripdata.csv
+citibike_data.csv
+
+
 # C extensions
 *.so
 
